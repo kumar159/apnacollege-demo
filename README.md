@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my second Git Repository.
 <br>
-Author - Kumar Madagunaki 
+Author - Kumar Madagunaki (Software Developer.)
